@@ -1,6 +1,3 @@
-# AI-Virtual-Mouse-using-Hand-Gesture-Voice-Control
-This project allows users to control their computer mouse using hand gestures and voice commands — no physical contact required. It's ideal for touchless control in presentations, accessibility solutions, or futuristic HCI (Human-Computer Interaction) experiments.
-
 # 🖥️ AI Virtual Mouse using Hand Gesture & Voice Control
 
 This project allows you to control your computer mouse using **hand gestures** and **voice commands** in real-time through your webcam. It is deployed on **Hugging Face Spaces** using **Gradio**, allowing easy access and sharing.
@@ -55,11 +52,3 @@ This project allows you to control your computer mouse using **hand gestures** a
 
 ---
 
-## 🚀 How to Run
-
-### ✅ Local Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/your-username/virtual-mouse-gesture-voice
-cd virtual-mouse-gesture-voice
