@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+pyautogui
+SpeechRecognition
+pyaudio
+pyttsx3
+psutil
